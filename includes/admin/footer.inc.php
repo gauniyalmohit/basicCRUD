@@ -1,0 +1,1 @@
+<h3>&copy; Copyright 2010-<?php echo date(y);?></h3>
