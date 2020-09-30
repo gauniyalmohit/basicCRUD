@@ -27,14 +27,6 @@ an helpby hardening systems in enemy territory more than those in safer areas, l
 In adversary modeling, the impliit assumptions are that you have a limitedbudget and the number of threats is so large that youannot defend against allof them. So you now need to de
 ide where to alloate your resoures.
             </p>            
-            <p>
-                After deiding what you need to protet (your assets), you need to know aboutthe threats you wish to prott it against, or the adversaries (sometimesalled
-threat agents) whih may threaten it. Generally intelligene units have threat, where they monitor and keep trak of the people who may threaten their
-operations. This is natural, sine it is easier to get an idea of who will try anddo something than how some unspeied person may try to do it, and
-an helpby hardening systems in enemy territory more than those in safer areas, leadingto more eient use of resoures. I shallall this adversary modeling.
-In adversary modeling, the impliit assumptions are that you have a limitedbudget and the number of threats is so large that youannot defend against allof them. So you now need to de
-ide where to alloate your resoures.otet (your assets), you need to know aboutthe threats this ends now for ever.
-            </p>
         </section>    
 
         <footer>
