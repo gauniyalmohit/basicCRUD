@@ -11,7 +11,7 @@ $answer = '';
 $photo='';
 
 function get_photo_name($photo){
-        $str = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+        $str = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
         $str = str_shuffle($str);
         $str = substr($str, 0,20);
         $i = strpos($photo, '.');
